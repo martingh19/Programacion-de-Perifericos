@@ -1,6 +1,15 @@
 // contrectparale04.cpp : Este archivo contiene la función "main". La ejecución del programa comienza y termina ahí.
 //
-
+/*****************************************************
+*       Universidad Politecnica de Tulancingo        *
+*    Ingenieria en Electronica y Telecomunicaciones  *
+*           Programación de Perifericos H361         *
+*          Gutiérrez Hernández Martín 1830028        *
+******************************************************
+* Tarea  5/24/2019  Primer parcial                   *
+* El siguiente programa obtiene el area de las caras *
+* y el area Total de un paralelepipedo y su volumen  *
+*****************************************************/
 #include <iostream>
 using namespace std;
 
