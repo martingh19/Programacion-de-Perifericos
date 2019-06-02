@@ -1,8 +1,8 @@
 # Programacion-de-Perifericos
         Universidad Politecnica de Tulancingo        *
-*    Ingenieria en Electronica y Telecomunicaciones  *
-*           Programación de Perifericos H361         *
-*          Gutiérrez Hernández Martín 1830028        *
+     Ingenieria en Electronica y Telecomunicaciones  *
+            Programación de Perifericos H361         *
+           Gutiérrez Hernández Martín 1830028        *
 Los siguientes programas son del primer parcial
 
 areapara03.cpp :El siguiente programa calcula el volumen y area total de un paralelepipedo por medio de clases y objetos.            
