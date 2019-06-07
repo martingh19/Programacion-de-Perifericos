@@ -6,8 +6,9 @@
 *           Programación de Perifericos H361         *
 *          Gutiérrez Hernández Martín 1830028        *
 ******************************************************
-* Praactica No.? 6/4/2019  Primer parcial            *
-* 
+* Praactica No.8 6/4/2019  Primer parcial            *
+* El siguiente programa corta el string hasta que    *
+* encuentra un espacio y lo guarda en otro string.   *
 *****************************************************/
 
 #include <iostream>
