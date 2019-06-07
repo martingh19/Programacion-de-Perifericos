@@ -1,5 +1,15 @@
 // exam1p.cpp : Este archivo contiene la función "main". La ejecución del programa comienza y termina ahí.
 //
+/*****************************************************
+*       Universidad Politecnica de Tulancingo        *
+*    Ingenieria en Electronica y Telecomunicaciones  *
+*           Programación de Perifericos H361         *
+*          Gutiérrez Hernández Martín 1830028        *
+******************************************************
+*            Examen Practico .Primer Parcial 6/7/2019*
+* El siguiente programa con la ayuda de class captura*
+* un archivo y lo muestra por medio de sus metodos.  *
+*****************************************************/
 
 #include <iostream>
 #include <fstream>
