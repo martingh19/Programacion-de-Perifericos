@@ -1,3 +1,3 @@
-# Programacion-de-Perifericos 2° Parcial
+# Programacion-de-Perifericos 3° Parcial
            Gutiérrez Hernández Martín 1830028        *
-Los siguientes programas son del Segundo Parcial:
+Los siguientes programas son del Tercer Parcial:
