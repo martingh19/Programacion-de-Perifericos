@@ -1,7 +1,4 @@
-# Programacion-de-Perifericos
-        Universidad Politecnica de Tulancingo        *
-     Ingenieria en Electronica y Telecomunicaciones  *
-            Programación de Perifericos H361         *
+# Programacion-de-Perifericos 1° Parcial
            Gutiérrez Hernández Martín 1830028        *
 Los siguientes programas son del primer parcial
 
