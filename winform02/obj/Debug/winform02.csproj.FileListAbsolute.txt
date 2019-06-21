@@ -1,0 +1,11 @@
+C:\Users\pc\source\cs_proyect\winform02\winform02\bin\Debug\winform02.exe.config
+C:\Users\pc\source\cs_proyect\winform02\winform02\bin\Debug\winform02.exe
+C:\Users\pc\source\cs_proyect\winform02\winform02\bin\Debug\winform02.pdb
+C:\Users\pc\source\cs_proyect\winform02\winform02\obj\Debug\winform02.csprojAssemblyReference.cache
+C:\Users\pc\source\cs_proyect\winform02\winform02\obj\Debug\winform02.mainForm.resources
+C:\Users\pc\source\cs_proyect\winform02\winform02\obj\Debug\winform02.Properties.Resources.resources
+C:\Users\pc\source\cs_proyect\winform02\winform02\obj\Debug\winform02.csproj.GenerateResource.cache
+C:\Users\pc\source\cs_proyect\winform02\winform02\obj\Debug\winform02.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\cs_proyect\winform02\winform02\obj\Debug\winform02.exe
+C:\Users\pc\source\cs_proyect\winform02\winform02\obj\Debug\winform02.pdb
+C:\Users\pc\source\cs_proyect\winform02\winform02\obj\Debug\winform02.AcercaDe.resources
